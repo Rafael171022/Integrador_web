@@ -19,7 +19,7 @@ export default function Home() {
                   </div>
 
                   <div className='text-center w-60 h-80 font-text_ale text-2xl rounded-3xl bg-white border-r-4 border-x-gray-200'>
-                    <img className='w-auto cursor-pointer  rounded-3xl mt-5 mb-14' src="src\assets\icones\programacao.png" alt=""/>TECNOLOGIA    
+                    <img className='w-auto cursor-pointer  rounded-3xl mt-5 mb-14' src="src\assets\icones\programacao.png" alt=""/>TESTE GIT HUB    
                   </div>
 
                   <div className='text-center w-60 h-80 font-text_ale text-2xl rounded-3xl bg-white border-r-4 border-x-gray-200'>
